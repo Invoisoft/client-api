@@ -1,0 +1,17 @@
+{
+    "name": "invoisoft/api-client",
+    "description": "Client library for interacting with the Invoisoft API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Invoisoft",
+            "email": "support@invoisoft.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Invoisoft\\ApiClient\\": "src/"}
+    },
+    "require": {}
+}
